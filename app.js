@@ -1,5 +1,7 @@
 import { geocode } from './utils/geocode.js'
 import { forecast } from './utils/forecast.js'
+import sourceMapSupport from 'source-map-support';
+sourceMapSupport.install();
 
 const address = process.argv[2]
 
