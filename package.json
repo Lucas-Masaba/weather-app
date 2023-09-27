@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Lucas-Masaba/weather-app#readme",
   "dependencies": {
     "postman-request": "^2.88.1-postman.32"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
   }
 }
